@@ -28,6 +28,10 @@ body {
   top: 20vh;
 }
 
+.catatan {
+  font-size: 10px;
+}
+
 .one {
   font-size: 3rem;
 }
